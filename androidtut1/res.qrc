@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>schuhe.png</file>
+        <file>jacke.png</file>
+        <file>car.png</file>
+        <file>trousers.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>cash.mp3</file>
+        <file>alarm.mp3</file>
+        <file>sax.mp3</file>
+    </qresource>
+</RCC>
